@@ -35,7 +35,7 @@ float gF_ModeCVarValues[MODECVAR_COUNT] =
 {
 	5.5,  // sv_accelerate
 	1.0,  // sv_accelerate_use_weapon_speed
-	12.0,  // sv_airaccelerate
+	100.0,  // sv_airaccelerate
 	30.0,  // sv_air_max_wishspeed
 	0.0,  // sv_enablebunnyhopping
 	5.2,  // sv_friction
@@ -47,7 +47,7 @@ float gF_ModeCVarValues[MODECVAR_COUNT] =
 	3500.0,  // sv_maxvelocity
 	0.0,  // sv_staminajumpcost
 	0.0,  // sv_staminalandcost
-	80.0,  // sv_staminamax
+	0.0,  // sv_staminamax
 	60.0,  // sv_staminarecoveryrate
 	0.7,  // sv_standable_normal
 	0.4,  // sv_timebetweenducks
